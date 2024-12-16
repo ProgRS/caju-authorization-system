@@ -45,7 +45,7 @@ caju-authorization-system/
 1. **Clonar o repositório**:
 
    ```bash
-   git clone <URL-DO-SEU-REPOSITORIO>
+   git clone <https://github.com/ProgRS/caju-authorization-system>
    cd caju-authorization-system
    ```
 2. **Construir o projeto**:   
